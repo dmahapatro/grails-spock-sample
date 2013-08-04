@@ -1,0 +1,13 @@
+Testsuite: com.example.AirportControllerSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1.502 sec
+------------- Standard Output ---------------
+--Output from show the details for airport--
+--Output from show the details for airport and use service--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from show the details for airport--
+--Output from show the details for airport and use service--
+------------- ---------------- ---------------
+
+Testcase: show the details for airport took 1.201 sec
+Testcase: show the details for airport and use service took 0.154 sec

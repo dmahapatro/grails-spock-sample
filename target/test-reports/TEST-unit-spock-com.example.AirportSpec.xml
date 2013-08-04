@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Dhiraj-PC" name="com.example.AirportSpec" tests="1" time="0.177" timestamp="2013-08-02T03:04:18">
+  <properties />
+  <testcase classname="com.example.AirportSpec" name="airport is added" time="0.168" />
+  <system-out><![CDATA[--Output from airport is added--
+]]></system-out>
+  <system-err><![CDATA[--Output from airport is added--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Dhiraj-PC" name="com.example.AirportControllerSpec" tests="2" time="1.502" timestamp="2013-08-02T03:04:16">
+  <properties />
+  <testcase classname="com.example.AirportControllerSpec" name="show the details for airport" time="1.201" />
+  <testcase classname="com.example.AirportControllerSpec" name="show the details for airport and use service" time="0.154" />
+  <system-out><![CDATA[--Output from show the details for airport--
+--Output from show the details for airport and use service--
+]]></system-out>
+  <system-err><![CDATA[--Output from show the details for airport--
+--Output from show the details for airport and use service--
+]]></system-err>
+</testsuite>

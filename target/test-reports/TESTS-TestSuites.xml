@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Dhiraj-PC" id="0" name="AirportControllerSpec" package="com.example" tests="2" time="1.502" timestamp="2013-08-02T03:04:16">
+      <properties />
+
+      <testcase classname="com.example.AirportControllerSpec" name="show the details for airport" time="1.201" />
+
+      <testcase classname="com.example.AirportControllerSpec" name="show the details for airport and use service" time="0.154" />
+
+      <system-out><![CDATA[--Output from show the details for airport--
+--Output from show the details for airport and use service--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from show the details for airport--
+--Output from show the details for airport and use service--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Dhiraj-PC" id="1" name="AirportSpec" package="com.example" tests="1" time="0.177" timestamp="2013-08-02T03:04:18">
+      <properties />
+
+      <testcase classname="com.example.AirportSpec" name="airport is added" time="0.168" />
+
+      <system-out><![CDATA[--Output from airport is added--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from airport is added--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Dhiraj-PC" id="2" name="DataDrivenSpec" package="com.example" tests="10" time="0.029" timestamp="2013-08-02T03:04:18">
+      <properties />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test a + b = c" time="0.001" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test a + b = c where a, b, c given" time="0.0" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test a + b = c where a, b, c given as data table" time="0.001" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test a + b = c where a, b, c given as mixed" time="0.001" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test adding 1 to 2 gives 3 where a, b, c given as data table" time="0.001" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test adding 3 to 5 gives 8 where a, b, c given as data table" time="0.001" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test adding 4 to 7 gives 11 where a, b, c given as data table" time="0.0" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test adding 1 to 2 gives 3 where a, b given as data table where as c is shared" time="0.0" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test adding 2 to 5 gives 7 where a, b given as data table where as c is shared" time="0.0" />
+
+      <testcase classname="com.example.DataDrivenSpec" name="test adding 3 to 7 gives 10 where a, b given as data table where as c is shared" time="0.0" />
+
+      <system-out><![CDATA[--Output from test a + b = c--
+--Output from test a + b = c where a, b, c given--
+--Output from test a + b = c where a, b, c given as data table--
+--Output from test a + b = c where a, b, c given as mixed--
+--Output from test adding 1 to 2 gives 3 where a, b, c given as data table--
+--Output from test adding 3 to 5 gives 8 where a, b, c given as data table--
+--Output from test adding 4 to 7 gives 11 where a, b, c given as data table--
+--Output from test adding 1 to 2 gives 3 where a, b given as data table where as c is shared--
+--Output from test adding 2 to 5 gives 7 where a, b given as data table where as c is shared--
+--Output from test adding 3 to 7 gives 10 where a, b given as data table where as c is shared--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test a + b = c--
+--Output from test a + b = c where a, b, c given--
+--Output from test a + b = c where a, b, c given as data table--
+--Output from test a + b = c where a, b, c given as mixed--
+--Output from test adding 1 to 2 gives 3 where a, b, c given as data table--
+--Output from test adding 3 to 5 gives 8 where a, b, c given as data table--
+--Output from test adding 4 to 7 gives 11 where a, b, c given as data table--
+--Output from test adding 1 to 2 gives 3 where a, b given as data table where as c is shared--
+--Output from test adding 2 to 5 gives 7 where a, b given as data table where as c is shared--
+--Output from test adding 3 to 7 gives 10 where a, b given as data table where as c is shared--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

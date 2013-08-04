@@ -1,0 +1,10 @@
+Testsuite: com.example.AirportSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.177 sec
+------------- Standard Output ---------------
+--Output from airport is added--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from airport is added--
+------------- ---------------- ---------------
+
+Testcase: airport is added took 0.168 sec
