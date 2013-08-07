@@ -7,6 +7,9 @@ import spock.lang.Specification
 @TestFor(AirportService)
 class AirportServiceSpec extends Specification {
 	void "test something"() {
-        assert true
+        given:
+            1 == 1
+        expect:
+            assert true
 	}
 }
